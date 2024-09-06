@@ -19,3 +19,12 @@ os = "linux"
     [[Fastscapelib.download]]
     sha256 = "4a979ee34b18b3ad6d10af53274ce9f5fefe1417909fca05688a387e39411611"
     url = "https://github.com/boriskaus/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Fastscapelib]]
+arch = "aarch64"
+git-tree-sha1 = "16153a49659c41e407babed07fd6435b5d859f5c"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Fastscapelib.download]]
+    sha256 = "27135e770f0cb73958bb98ef10bf4ed4f1f6a5dce8f9104596de4ea183569cf4"
+    url = "https://github.com/boriskaus/Fastscapelib_jll.jl/releases/download/Fastscapelib-v2.8.4+0/Fastscapelib.v2.8.4.aarch64-apple-darwin-libgfortran5.tar.gz"
