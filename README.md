@@ -16,7 +16,7 @@ The tarballs for `Fastscapelib_jll.jl` have been built from these sources:
 
 `Fastscapelib_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {libc=glibc, libgfortran_version=5.0.0, mpi=mpich}` (`x86_64-linux-gnu-libgfortran5-mpi+mpich`)
+* `Linux x86_64 {libc=glibc, libgfortran_version=4.0.0}` (`x86_64-linux-gnu-libgfortran4`)
 
 ## Dependencies
 
