@@ -16,7 +16,7 @@ The tarballs for `Fastscapelib_jll.jl` have been built from these sources:
 
 `Fastscapelib_jll.jl` is available for the following platforms:
 
-* `macOS aarch64 {libgfortran_version=5.0.0}` (`aarch64-apple-darwin-libgfortran5`)
+* `Windows x86_64 {libgfortran_version=4.0.0}` (`x86_64-w64-mingw32-libgfortran4`)
 
 ## Dependencies
 
